@@ -1,0 +1,6 @@
+*.sublime-project
+*.sublime-workspace
+!.gitkeep
+.DS_Store
+.idea
+.vscode
