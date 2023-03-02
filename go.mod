@@ -1,4 +1,4 @@
-module example.com/cloud/protogen
+module github.com/booldesign/protogen
 
 go 1.19
 
