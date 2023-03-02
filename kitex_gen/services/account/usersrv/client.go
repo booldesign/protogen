@@ -4,7 +4,7 @@ package usersrv
 
 import (
 	"context"
-	"example.com/cloud/protogen/kitex_gen/services/account"
+	"github.com/booldesign/protogen/kitex_gen/services/account"
 	"github.com/cloudwego/kitex/client"
 	"github.com/cloudwego/kitex/client/callopt"
 )

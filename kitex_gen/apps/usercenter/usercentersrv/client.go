@@ -4,7 +4,7 @@ package usercentersrv
 
 import (
 	"context"
-	"example.com/cloud/protogen/kitex_gen/apps/usercenter"
+	"github.com/booldesign/protogen/kitex_gen/apps/usercenter"
 	"github.com/cloudwego/kitex/client"
 	"github.com/cloudwego/kitex/client/callopt"
 )

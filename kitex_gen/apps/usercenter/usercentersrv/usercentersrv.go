@@ -4,8 +4,8 @@ package usercentersrv
 
 import (
 	"context"
-	"example.com/cloud/protogen/kitex_gen/apps/usercenter"
 	"fmt"
+	"github.com/booldesign/protogen/kitex_gen/apps/usercenter"
 	"github.com/cloudwego/kitex/client"
 	kitex "github.com/cloudwego/kitex/pkg/serviceinfo"
 	"github.com/cloudwego/kitex/pkg/streaming"

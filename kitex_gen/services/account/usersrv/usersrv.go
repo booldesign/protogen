@@ -4,8 +4,8 @@ package usersrv
 
 import (
 	"context"
-	"example.com/cloud/protogen/kitex_gen/services/account"
 	"fmt"
+	"github.com/booldesign/protogen/kitex_gen/services/account"
 	"github.com/cloudwego/kitex/client"
 	kitex "github.com/cloudwego/kitex/pkg/serviceinfo"
 	"github.com/cloudwego/kitex/pkg/streaming"

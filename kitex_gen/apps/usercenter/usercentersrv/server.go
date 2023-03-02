@@ -2,7 +2,7 @@
 package usercentersrv
 
 import (
-	"example.com/cloud/protogen/kitex_gen/apps/usercenter"
+	"github.com/booldesign/protogen/kitex_gen/apps/usercenter"
 	"github.com/cloudwego/kitex/server"
 )
 
